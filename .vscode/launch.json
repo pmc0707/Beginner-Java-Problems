@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CircularQueueUsingArray",
+            "request": "launch",
+            "mainClass": "CircularQueueUsingArray",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "DupicateParentheses",
+            "request": "launch",
+            "mainClass": "DupicateParentheses",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "arrow",
+            "request": "launch",
+            "mainClass": "arrow",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "abc",
+            "request": "launch",
+            "mainClass": "abc",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "VariableMethodQuestion",
+            "request": "launch",
+            "mainClass": "VariableMethodQuestion",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "OutputQuestion2",
+            "request": "launch",
+            "mainClass": "OutputQuestion2",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "OutputQuestion",
+            "request": "launch",
+            "mainClass": "OutputQuestion",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "Oops",
+            "request": "launch",
+            "mainClass": "Oops",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "OOPS",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "stringbuild",
+            "request": "launch",
+            "mainClass": "stringbuild",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "even_fun",
+            "request": "launch",
+            "mainClass": "even_fun",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "average_fun",
+            "request": "launch",
+            "mainClass": "average_fun",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "sumofoddandeven",
+            "request": "launch",
+            "mainClass": "sumofoddandeven",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "areaofcircle",
+            "request": "launch",
+            "mainClass": "areaofcircle",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "javabasic",
+            "request": "launch",
+            "mainClass": "javabasic",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "leapyear",
+            "request": "launch",
+            "mainClass": "leapyear",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "negative",
+            "request": "launch",
+            "mainClass": "negative",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "normal",
+            "request": "launch",
+            "mainClass": "normal",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "pattrn",
+            "request": "launch",
+            "mainClass": "pattrn",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "temperature",
+            "request": "launch",
+            "mainClass": "temperature",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "java_pro_4c4fc5b1"
+        },
+        {
+            "type": "java",
+            "name": "weeknumber",
+            "request": "launch",
+            "mainClass": "weeknumber",
+            "projectName": "java_pro_4c4fc5b1"
+        }
+    ]
+}
